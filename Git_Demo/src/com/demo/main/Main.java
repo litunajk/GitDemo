@@ -7,6 +7,7 @@ public class Main {
 		obj.method();
 		
 		System.out.println("From MAin Class");
+		System.out.println("After 1st commit");
 
 	}
 
